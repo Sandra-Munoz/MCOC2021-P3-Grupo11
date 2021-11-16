@@ -1,4 +1,17 @@
 # MCOC2021-P3-Grupo11
+
+Entrega4 ( P3E4)
+a)Funciones costo como labels
+![COSTO_LABEL](https://user-images.githubusercontent.com/62267612/142081918-4529f0bd-23fc-4198-9e5e-f37450237053.png)
+
+![COSTO](https://user-images.githubusercontent.com/62267612/142081932-6883e43d-4f04-4721-a1e3-a9a5ccaf4738.png)
+
+
+b)flujo establecido por equilibrio de wardrop
+
+![Flujo](https://user-images.githubusercontent.com/62267612/142081933-61fca802-4bc5-4c76-8aaf-38c69968a580.png)
+
+
 Entrega2 ( P3E1)
 
 1) Figura reflejo de la tarea
