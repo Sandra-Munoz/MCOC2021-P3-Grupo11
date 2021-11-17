@@ -1,6 +1,7 @@
 # MCOC2021-P3-Grupo11
 
 Entrega4 ( P3E4)
+Para esta entrega, se pidió encontrar el equilibrio de Wardrop para la siguiente red, en donde cada arco tiene su funcion de costo respectiva que se encuentra en función del flujo del arco (f)
 
 a)Funciones costo como labels
 
